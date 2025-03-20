@@ -1,4 +1,4 @@
-# 章鱼哥的自我介绍
+# 啊淦的自我介绍
 
 <img src="https://github.com/givenkills/-/blob/main/image/838440c5e9e161ba9f65865212f6d3a.jpg" width="200" alt="啊淦形象">
 
@@ -34,4 +34,4 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://github.com/givenkills/-/blob/main/image/0c36ea0d8591a31ad8bb08f4ab8557c.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://github.com/givenkills/-/blob/main/image/e8199e7f9410f4ca46ebf7558e8cdac.png" width="800" alt="截图二">
+<img src="https://github.com/givenkills/-/blob/main/image/863791021a71473d358ff627199ccda.png" width="800" alt="截图二">
